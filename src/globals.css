@@ -1,5 +1,5 @@
     header {
-        height: 50px;
+        height: 40px;
         width: 100%;
         background-color: blue;
         text-align: center;
@@ -10,8 +10,18 @@
         height: 100px;
         width: 100%;
         text-align: center;
-        background-color: aqua;
-        color: black;
+        background-color: blue;
+        color: rgb(255, 255, 255);
         font-size: medium;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    main{
+   height: 800px;
+  text-align: center;
+  margin-top: 40px;
+    }
+
+    h2,body,html{
+      margin: 0px;
     }
